@@ -1,2 +1,4 @@
 # Word_Count
-Counts the number of words in a text file.
+Simple app that counts the number of words in a text file. 
+
+Text file is included and doesn't call an API.
